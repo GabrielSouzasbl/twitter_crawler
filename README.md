@@ -1,4 +1,4 @@
-Coletando Tweets e enviando ao banco de dados Postgres:
+Coletando Tweets e enviando ao banco de dados Postgresql:
 
 O twitter possui uma API própria para coleta de textos na sua base de dados, porém para um usuário normal só é possível acessar
 uma quantidade limitada de tweets e um determinado tempo também (7 dias atrás se não me engano).
